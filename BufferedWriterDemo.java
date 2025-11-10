@@ -18,7 +18,7 @@ BufferedWriter bw = new BufferedWriter(fw);
 {
 String email = br.readLine();
 String password = br.readLine();
-if(email.equals(email) && password.equals(password))
+if(email.equals("mayank@gmail.com") && password.equals("mayank@1234"))
 {
 bw.write("Logged in");
 }
