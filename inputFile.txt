@@ -1,0 +1,2 @@
+Hello this is 9/11/2025
+And i am writing an homework in which i have to take input from a file and print the input in another file using JAVA Application
